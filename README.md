@@ -35,5 +35,5 @@ This is a simple Python-based weather application built with Flask. The app allo
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/94mohabd/WeatherApp-Flask.git
-   cd python-weather-app
+   cd WeatherApp-Flask
 
